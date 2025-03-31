@@ -5,6 +5,10 @@
 @use "abstracts/placeholders"as *;
 @use "abstracts/typography"as *;
 
+// Pages
+
+@use "pages/home"as *;
+
 // 2️⃣ Import des bases
 @use "base/reset"as *;
 @use "base/reset-typo"as *;
@@ -35,4 +39,6 @@
 @use "utils/animations"as *;
 @use "utils/spacing"as *;
 @use "utils/accessibility"as *;
+
+
 
