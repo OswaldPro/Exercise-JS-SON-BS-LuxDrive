@@ -28,7 +28,7 @@ Ce projet est un exercice visant à apprendre les bases du JavaScript en manipul
 
 1. Cloner le projet :
    ```bash
-   git clone https://github.com/votre-repo/projet-automobile.git
+   git clone https://github.com/OswaldPro/Exercise-JS-SON-BS-LuxDrive.git
    ```
 2. Ouvrir le fichier `index.html` dans un navigateur.
 
